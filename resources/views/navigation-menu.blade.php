@@ -109,7 +109,7 @@
                                     <div class="flex">
                                         <span class="inline-flex rounded-md">
                                             <button type="button" class="inline-flex items-center px-3 py-2   text-base leading-4 font-medium rounded-md text-gray-500 bg-white hover:text-gray-700 focus:outline-none focus:bg-transparent active:bg-transparent transition">
-                                              Chat Now
+                                              Chat GPT
                                             
                                             </button>
                                         </span>
@@ -117,7 +117,7 @@
                                 </x-slot>
                                 <x-slot name="content">
                                     <x-dropdown-link href="{{ route('namemypet') }}">
-                                     Chat Now
+                                     Chat GPT
                                     </x-dropdown-link>
                                 
                                 </x-slot>
